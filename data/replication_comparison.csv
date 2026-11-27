@@ -1,0 +1,4 @@
+segment,reported_count,reference_initialized_count,independent_count,reference_stress_z,reference_activity_z,reference_snack_z,independent_stress_z,independent_activity_z,independent_snack_z
+1,77,77,68,0.292177,-0.549150,-0.346451,0.293741,-0.571785,-0.472993
+2,44,44,44,-0.651112,1.199554,-0.301836,-0.651112,1.199554,-0.301836
+3,22,22,31,0.279606,-0.477084,1.816252,0.279824,-0.448354,1.465947

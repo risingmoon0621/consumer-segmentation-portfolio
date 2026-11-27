@@ -1,0 +1,38 @@
+{
+  "input_rows": 146,
+  "columns": 34,
+  "missing_cells": 0,
+  "duplicate_excluding_ID_Puan": 0,
+  "pss_formula_matches": 146,
+  "ipaq_formula_matches": 146,
+  "snack_formula_matches": 146,
+  "upper_outer_fence": 6728.0,
+  "activity_outliers_removed": 3,
+  "retained": 143,
+  "max_activity_retained": 5838.0,
+  "cronbach_alpha": 0.8380783889744345,
+  "reference_count": [
+    77,
+    44,
+    22
+  ],
+  "independent_count": [
+    68,
+    44,
+    31
+  ],
+  "max_abs_reference_center_difference": 4.179498507950186e-06,
+  "reference_inertia": 221.6885783195026,
+  "reference_silhouette": 0.31721584712321865,
+  "independent_inertia": 221.43461533094725,
+  "independent_silhouette": 0.2980049382396965,
+  "ari_reference_vs_independent": 0.8316156992014905,
+  "ari_ward_vs_independent": 0.6915089631812548,
+  "bootstrap_ari_median": 0.6524062356067002,
+  "bootstrap_ari_p10": 0.39360107186523846,
+  "bootstrap_ari_p90": 0.9068710761061256,
+  "pca_explained_ratio": [
+    0.44143286599283976,
+    0.314963793696995
+  ]
+}
